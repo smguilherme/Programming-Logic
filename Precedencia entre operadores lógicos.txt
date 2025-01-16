@@ -1,0 +1,16 @@
+Precedencia entre operadores lógicos
+
+Prioridade          Operadores
+
+1º                  NOT | NÃO
+2º                  AND | E
+3º                  OR  | ou
+
+Precedencia entre todos os operadores
+
+Prioridade          Operadores
+ 
+1º                  parenteses mais internos
+2º                  operadores artiméticos
+3º                  operadores relacionais
+4º                  operadores logicos

@@ -1,0 +1,5 @@
+Operadores Lógicos
+
+NÃO | NOT   Negação
+E   | AND   Conjunção
+ou  | OR    Disjunção

@@ -1,0 +1,21 @@
+Tabela Verdade
+
+A           NÃO A
+F           V
+V           F
+
+Operações de Conjunção
+
+A           B           A e B 
+F           F             F
+F           V             F
+V           F             F
+V           V             V
+
+Operações de disjunção não exclusiva
+
+A           B          A ou B 
+F           F           F
+F           V           V 
+V           F           V 
+V           V           V
