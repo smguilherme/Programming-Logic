@@ -1,0 +1,30 @@
+Precedencia entre operadores
+precedence between operators
+
+1º parenteses mais interno (())
+2º pot rad
+3º * / div mod
+4º + -
+
+em caso de empate em operadores da mesma prioridade, devemos resolver da esquerda para direita
+
+Exemplo
+A) 
+5+9+7+8/4
+5+9+7+2
+23
+
+B)
+1-4*3/6-pot(3,2)
+1-4*3/6-9
+1-12/6-9
+1-2-9
+-10
+
+C)
+pot(5,2)-4/2+rad(1+3*5)/2
+pot(5,2)-4/2+rad(1+15)/2
+pot(5,2)-4/2+rad(16)/2
+25-4/2+4/2
+25-2+2
+25
