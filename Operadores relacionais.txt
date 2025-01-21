@@ -1,0 +1,10 @@
+Operadores relacionais
+
+Operação        Algoritmo       python
+
+Igual a             =               ==
+Maior que           >               >
+Menor que           <               <
+Maior ou igual a    >=              >=
+Menor ou igual a    <=              <=
+Diferente           <>              !=
